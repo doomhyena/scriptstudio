@@ -1,6 +1,6 @@
 # Script Stuido Website
 
-Welcome to my first project! I made this wesite for a fictional company, because I wanted to show my frontend knowlege. This website contains everything what a company need.
+Welcome to my project! I made this wesite for a fictional company, because I wanted to show my frontend knowlege. This website contains everything what a company need.
 
 Like:
   - Main page
@@ -18,5 +18,6 @@ Like:
   - HTML
   - CSS
   - Typescript
+  - JQuery
   - Bootstrap
 
